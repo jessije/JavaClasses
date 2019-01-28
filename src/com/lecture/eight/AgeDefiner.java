@@ -2,7 +2,6 @@ package com.lecture.eight;
 
 public class AgeDefiner {
 
-
     /**
      *  <18 you are very young
      *  18-31 you are still young

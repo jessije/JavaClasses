@@ -10,8 +10,7 @@ public class AgeDefinerHW {
 
         if (gender.equalsIgnoreCase("female")) {
             System.out.println("what is you age");
-            int ageOfWoman = scanner.nextInt();
-            {
+            int ageOfWoman = scanner.nextInt(); {
                 AgeDefiner ageDefiner = new AgeDefiner();
                 ageDefiner.womanAge(ageOfWoman);
             }

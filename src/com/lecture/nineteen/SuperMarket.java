@@ -29,14 +29,10 @@ public class SuperMarket {
      */
     public void insertProduct(Product incomingProduct) {
         listOfProducts.add(incomingProduct);
-
     }
-
     public void removeProduct(int indexOfProduct){
         listOfProducts.remove(indexOfProduct);
-
     }
-
 
     public int getIndexOfProduct(String incomingProductName) {
         for (int counter = 0; counter < listOfProducts.size(); counter++) {

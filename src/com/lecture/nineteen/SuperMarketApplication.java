@@ -25,8 +25,6 @@ public class SuperMarketApplication {
             } else {
                 System.out.println("Invalid command");
             }
-
-
         }
 
         superMarket.printAllProducts();
