@@ -1,4 +1,4 @@
-package twentyone;
+package com.lecture.twentyone;
 
 import java.util.HashMap;
 import java.util.Map;
